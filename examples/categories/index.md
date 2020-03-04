@@ -15,9 +15,9 @@ Every public repository in the `newrelic` and `newrelic-experimental` GitHub org
 
 See the preview image and code snippets below.
 
-## New Relic Experimental
+## [New Relic Experimental](#new-relic-experimental)
 
-[![New Relic Experimental header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Experimental.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md)
+[![New Relic Experimental header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Experimental.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#new-relic-experimental)
 
 ### Category Description
 
@@ -33,5 +33,5 @@ See the preview image and code snippets below.
 Copy and paste the following into the **top** of your project's README.
 
 ```markdown
-[![New Relic Experimental header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Experimental.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md)
+[![New Relic Experimental header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Experimental.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#new-relic-experimental)
 ```
