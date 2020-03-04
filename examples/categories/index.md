@@ -15,7 +15,7 @@ Every public repository in the `newrelic` and `newrelic-experimental` GitHub org
 
 See the preview image and code snippets below.
 
-## [New Relic Experimental](#new-relic-experimental)
+## Category: [New Relic Experimental](#new-relic-experimental)
 
 [![New Relic Experimental header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Experimental.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#new-relic-experimental)
 
