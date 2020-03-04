@@ -153,12 +153,13 @@ This is code that is developed and maintained by New Relic engineering teams (of
 
 ### Category Description
 
-The code is forkable only. There is not maintainer team.
+The code is read-only. There is no maintainer team nor support.
 
 ### Category Requirements
 
 - Must contain the code snippet below at the top of the repository's README file
-- Project is read-only and forkable only
+- Previous references to Support should be modified or removed from the README
+- Project is read-only and available for `cloning` only
 - Project follows New Relic's open source licensing requirements
 
 ### Code snippet
