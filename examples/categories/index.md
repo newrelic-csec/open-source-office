@@ -82,6 +82,7 @@ This is code that will be included in the `New Relic One Catalog`.  It must meet
 ### Category Requirements
 
 All the requirements of a `Community Project` as well as
+- The empty state of the application workflow that guides users through the setup of configuration data that is stored in NerdStorage
 - Architectural review (including UX),
 - Product management review,
 - (as needed) Security review,
