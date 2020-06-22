@@ -10,7 +10,6 @@ Every public repository in the `newrelic` and `newrelic-experimental` GitHub org
 - Community Project
 - New Relic One Catalog Project
 - Example Code
-- Product Delivered in Open Source
 - Archived
 
 See the category descriptions, header images, and code snippets below.
